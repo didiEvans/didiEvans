@@ -30,10 +30,10 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
+<!-- - 🔭 I’m currently working on [DXY](https://dxy.com/)~ -->
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/720879378789703)
+- ⛺️ I have a private site: [kunlunxu](https://blog.cceven.cc), you're welcome to come! ~
+- 📨 My email address is `ankerevans@gmail.com` Welcome to contact me 👏🏻 ~
 
